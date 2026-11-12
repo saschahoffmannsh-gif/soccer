@@ -2,6 +2,8 @@
 
 Spielbar im Browser: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffmannsh-gif.github.io/soccer/)
 
+**Neu:** Ladebildschirm mit der Key-Art „BALL WARS“ (alle sechs Figuren im Nachtstadion) und echter Ladeleiste; Menü (Knöpfe, Kacheln, Karten, Pass-Pfad, Inventar, Dialoge) aus in Blender gerenderten 3D-Platten mit Metallrahmen.
+
 **Ablauf:** Ladebildschirm → Home → Figur wählen, **1 gegen 1** oder **2 gegen 2** → **Spielen**. Ein Match dauert 90 Sekunden oder endet sofort, wenn ein Team 3 Tore hat. Danach zeigt das Home Ergebnis, XP und Belohnung.
 
 **Figuren (neuer Kader):** sechs Spieler, drei Fußballer und drei American-Football-Spieler: **Leo** (Stürmer · #10) ist frei, **Mia** (Flügelflitzerin · #2), **Robo** (Roboter · #7), **Tim** (Wirbelwind · #7), **Bruno** (Helm-Koloss · #72) und **Kalle** (Kraftpaket · #35) schaltest du mit je 10 Figuren-Karten frei (gesperrte sieht man als Silhouette mit Schloss und Kartenstand). Alle haben ein Skelett und 12 Animationen (u. a. Lauf, Sprint im Turbo, Schuss, Rempler, Sprung, Jubel). Dein Team erkennst du am Ring (Blau/Rot), die Trikots bleiben wie gemalt. Auch die Zuschauer sind diese sechs Figuren, mit Trikots in der Farbe ihres Blocks.
