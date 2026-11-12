@@ -4,7 +4,9 @@ Spielbar im Browser: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffm
 
 **Ablauf:** Ladebildschirm → Home → Figur wählen, **1 gegen 1** oder **2 gegen 2** → **Spielen**. Ein Match dauert 90 Sekunden oder endet sofort, wenn ein Team 3 Tore hat. Danach zeigt das Home Ergebnis, XP und Belohnung.
 
-**Figuren:** Funki ist frei. Zappo, Brock und Nefi schaltest du mit je 10 Figuren-Karten frei (gesperrte sieht man mit Schloss und Kartenstand). Ember und Moosi kommen demnächst.
+**Figuren (neuer Kader):** sechs Spieler, drei Fußballer und drei American-Football-Spieler: **Leo** (Stürmer · #10) ist frei, **Mia** (Flügelflitzerin · #2), **Robo** (Roboter · #7), **Tim** (Wirbelwind · #7), **Bruno** (Helm-Koloss · #72) und **Kalle** (Kraftpaket · #35) schaltest du mit je 10 Figuren-Karten frei (gesperrte sieht man als Silhouette mit Schloss und Kartenstand). Alle haben ein Skelett und 12 Animationen (u. a. Lauf, Sprint im Turbo, Schuss, Rempler, Sprung, Jubel). Dein Team erkennst du am Ring (Blau/Rot), die Trikots bleiben wie gemalt. Auch die Zuschauer sind diese sechs Figuren, mit Trikots in der Farbe ihres Blocks.
+
+**Alte Spielstände** (mit den Fabelwesen) werden beim ersten Start automatisch übernommen: Funki → Leo, Zappo → Mia, Nefi → Robo, Brock → Kalle (Karten, Freischaltung, gewählte Figur). XP, Pass und Ausrüstung bleiben.
 
 **Ausrüstung:** Kraftstiefel (Kraft), Flitzer (Tempo), Sprungfedern (Sprunghöhe), Schulterpolster (Tackling). 10 Karten = 1 Level = +1 %, bis Level 20. Die Boni wirken im Spiel für dich und deinen Mitspieler.
 
