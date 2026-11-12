@@ -6,7 +6,9 @@ Beim Start spielst du 1 gegen 1 gegen einen computergesteuerten Gegner. Er hält
 
 Der Ball hat Gewicht, rollt mit Reibung aus und dreht sich sichtbar. Nach einer Annahme klebt er genau 2 Sekunden am Fuß (grüner Ring läuft ab), danach gilt wieder die normale Physik. Ohne Ball und in der Klebphase läuft man 10 % schneller als beim Dribbeln.
 
-Die Figuren sind eigene 3D-Fantasiewesen mit Skelett und Animationen (Funki, Zappo, Brock). Oben rechts wählst du mit „Figur“ dein Wesen, die KI nimmt ein anderes. Die Arena hat ein texturiertes Feld, 3D-Tore mit Netz, Banden, Tribünen und jubelnde Zuschauer.
+Die Figuren sind eigene 3D-Fantasiewesen mit Skelett und Animationen (Funki, Zappo, Brock). Oben rechts wählst du mit „Figur“ dein Wesen, die KI nimmt ein anderes. Die Arena hat sattgrünen Rasen mit Gras-Textur, 3D-Tore mit Netz, Banden und Tribünen voller jubelnder Drachen, Kobolde und Golems.
+
+**Turbo:** Wer ohne Ball klar Richtung eigenes Tor läuft, bekommt 1,5 s Sprint (+35 %), danach 5 s Pause. Nach vorn, zur Seite oder auf den Gegner zu gibt es keinen Turbo. Für die KI gelten dieselben Regeln.
 
 **Touch:** links Stick. Rechts vier Knöpfe: **Pass** (kurz, in Laufrichtung), **Schuss** (halten = laden, loslassen = schießen), **Lupfer** (Bogen durch die Luft, tippen genügt, halten = weiter), **Rempeln** (Schultercheck, nur ohne Ball; mit Ball ist der Knopf grau). Ein Treffer schubst den Gegner und löst ihm den Ball, auch aus der Klebphase. Der Ball muss danach normal angenommen werden. Frei rechts wischen = Swipe-Schuss, Bogen = Drall.
 
