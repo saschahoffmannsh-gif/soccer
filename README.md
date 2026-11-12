@@ -2,7 +2,9 @@
 
 Spielbar im Browser: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffmannsh-gif.github.io/soccer/)
 
-**Neu:** Ladebildschirm mit der Key-Art „BALL WARS“ (alle sechs Figuren im Nachtstadion) und echter Ladeleiste; Menü (Knöpfe, Kacheln, Karten, Pass-Pfad, Inventar, Dialoge) aus in Blender gerenderten 3D-Platten mit Metallrahmen.
+**Neu:** Alle Symbole und Karten-Bilder sind jetzt hochwertige Blender-Studio-Renders statt Zeichnungen: Fußball, Goldstern, Pokal, Zahnrad, Metall-Schloss, Pass-Medaille, Kartenstapel, 1v1/2v2-Spielfiguren, Studio-Porträts aller sechs Figuren und Produktaufnahmen der Ausrüstung (Kraftstiefel, Flitzer, Sprungfedern, Schulterpolster). Neue Schrift Nunito (SIL OFL 1.1) mit Kontur und Schatten.
+
+**Zuvor:** Ladebildschirm mit der Key-Art „BALL WARS“ (alle sechs Figuren im Nachtstadion) und echter Ladeleiste; Menü (Knöpfe, Kacheln, Karten, Pass-Pfad, Inventar, Dialoge) aus in Blender gerenderten 3D-Platten mit Metallrahmen.
 
 **Ablauf:** Ladebildschirm → Home → Figur wählen, **1 gegen 1** oder **2 gegen 2** → **Spielen**. Ein Match dauert 90 Sekunden oder endet sofort, wenn ein Team 3 Tore hat. Danach zeigt das Home Ergebnis, XP und Belohnung.
 
