@@ -2,7 +2,9 @@
 
 Spielbar im Browser: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffmannsh-gif.github.io/soccer/)
 
-**Neu:** Alle Symbole und Karten-Bilder sind jetzt hochwertige Blender-Studio-Renders statt Zeichnungen: Fußball, Goldstern, Pokal, Zahnrad, Metall-Schloss, Pass-Medaille, Kartenstapel, 1v1/2v2-Spielfiguren, Studio-Porträts aller sechs Figuren und Produktaufnahmen der Ausrüstung (Kraftstiefel, Flitzer, Sprungfedern, Schulterpolster). Neue Schrift Nunito (SIL OFL 1.1) mit Kontur und Schatten.
+**Neu:** Regler **Computer-Stärke** im Home (rechts über „1 gegen 1 / 2 gegen 2“): **Einfach · Mittel · Profi**. Profi ist die bisherige KI; Einfach und Mittel reagieren langsamer, zielen ungenauer, rempeln und springen seltener und setzen weniger nach. Gilt für die Computer-Gegner in 1v1 und 2v2 (dein Mitspieler bleibt Profi) und wird gespeichert. Start: Mittel.
+
+**Zuvor:** Alle Symbole und Karten-Bilder sind jetzt hochwertige Blender-Studio-Renders statt Zeichnungen: Fußball, Goldstern, Pokal, Zahnrad, Metall-Schloss, Pass-Medaille, Kartenstapel, 1v1/2v2-Spielfiguren, Studio-Porträts aller sechs Figuren und Produktaufnahmen der Ausrüstung (Kraftstiefel, Flitzer, Sprungfedern, Schulterpolster). Neue Schrift Nunito (SIL OFL 1.1) mit Kontur und Schatten.
 
 **Zuvor:** Ladebildschirm mit der Key-Art „BALL WARS“ (alle sechs Figuren im Nachtstadion) und echter Ladeleiste; Menü (Knöpfe, Kacheln, Karten, Pass-Pfad, Inventar, Dialoge) aus in Blender gerenderten 3D-Platten mit Metallrahmen.
 
