@@ -1,15 +1,21 @@
-# Soccer-Prototyp
+# FABELKICK (Prototyp)
 
-Spielbarer Test der Ballphysik: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffmannsh-gif.github.io/soccer/)
+Spielbar im Browser: [saschahoffmannsh-gif.github.io/soccer](https://saschahoffmannsh-gif.github.io/soccer/)
 
-Beim Start spielst du **2 gegen 2**: du und ein Computer-Mitspieler (Blau, ihr schießt aufs rechte Tor) gegen zwei Computer-Gegner (Rot). Alle Computer halten sich an dieselben Regeln (gleiche Physik, gleiches Tempo, Rempeln nur ohne Ball, Turbo-Regeln) und reagieren mit menschlicher Verzögerung. Der Mitspieler bietet sich an, passt dir zu und rempelt nie das eigene Team. Bei Ballverlust greift einer an, der andere deckt. Über dem Mitspieler steht „Mitspieler · Name“. Oben rechts schaltet „Modus: 2v2 / 1v1“ auf das 1 gegen 1 um. „Gegner: An/Aus“ nimmt die Gegner vom Feld, der Mitspieler bleibt.
+**Ablauf:** Ladebildschirm → Home → Figur wählen, **1 gegen 1** oder **2 gegen 2** → **Spielen**. Ein Match dauert 90 Sekunden oder endet sofort, wenn ein Team 3 Tore hat. Danach zeigt das Home Ergebnis, XP und Belohnung.
 
-Der Ball hat Gewicht, rollt mit Reibung aus und dreht sich sichtbar. Nach einer Annahme klebt er genau 2 Sekunden am Fuß (grüner Ring läuft ab), danach gilt wieder die normale Physik. Ohne Ball und in der Klebphase läuft man 10 % schneller als beim Dribbeln.
+**Figuren:** Funki ist frei. Zappo, Brock und Nefi schaltest du mit je 10 Figuren-Karten frei (gesperrte sieht man mit Schloss und Kartenstand). Ember und Moosi kommen demnächst.
 
-Die Figuren sind eigene 3D-Fantasiewesen mit Skelett und Animationen (Funki, Zappo, Brock, Nefi). Oben rechts wählst du mit „Figur“ dein Wesen, die anderen drei bekommen automatisch je ein anderes. Die Arena hat sattgrünen Rasen mit Gras-Textur, 3D-Tore mit Netz, Banden und Tribünen voller jubelnder Drachen, Kobolde, Golems und Wüstenlöwen.
+**Ausrüstung:** Kraftstiefel (Kraft), Flitzer (Tempo), Sprungfedern (Sprunghöhe), Schulterpolster (Tackling). 10 Karten = 1 Level = +1 %, bis Level 20. Die Boni wirken im Spiel für dich und deinen Mitspieler.
 
-**Turbo:** Wer ohne Ball klar Richtung eigenes Tor läuft, bekommt 1,5 s Sprint (+35 %), danach 5 s Pause. Nach vorn, zur Seite oder auf den Gegner zu gibt es keinen Turbo. Für die KI gelten dieselben Regeln.
+**Stollen-Pass** (Saison 1 · Goldene Wüste): 25 Stufen, XP aus Spielen (Sieg 100, Unentschieden 60, Niederlage 40, +10 je Tor). Frei 1 Prämie pro Stufe, mit Pass 2. Der Kauf (5,99 €) ist nur ein Test-Dummy ohne Zahlung.
 
-**Touch:** links Stick. Rechts vier Knöpfe: **Pass** (kurz, in Laufrichtung; im 2v2 mit Zielhilfe zum Mitspieler), **Schuss** (halten = laden, loslassen = schießen), **Lupfer** (Bogen durch die Luft, tippen genügt, halten = weiter), **Rempeln** (Schultercheck, nur ohne Ball; mit Ball ist der Knopf grau). Ein Treffer schubst den Gegner und löst ihm den Ball, auch aus der Klebphase. Der Ball muss danach normal angenommen werden. Frei rechts wischen = Swipe-Schuss, Bogen = Drall.
+**Spiel:** gleiche Physik wie bisher. Ball mit Drall, 2 s Klebphase nach Annahme, Rempeln nur ohne Ball, Turbo zurück zum eigenen Tor. Im 2v2 spielt ein Computer-Mitspieler mit dir gegen zwei Computer-Gegner. Neu ist der **Sprung**: Kopfball/Volley bei hohen Bällen, Blocken, Ausweichen vor Remplern.
 
-**Desktop:** WASD oder Pfeile, Leertaste = Pass, Shift/J halten = Schuss, F/L = Lupfer, K/Strg = Rempeln, Q/E = Drall. `[` / `]` stellen die Ballkontrolle ein, T schaltet die Computer-Gegner an oder aus, M wechselt den Modus (2v2/1v1), C wechselt die Figur, R setzt neu an.
+**Touch:** links Stick. Rechts Pass, Schuss (halten = laden), Lupfer, Rempeln, Sprung. Wischen = Swipe-Schuss.
+
+**Desktop:** WASD, Leertaste Pass, Shift/J Schuss, F/L Lupfer, K Rempeln, **I Springen**, Q/E Drall, T Gegner an/aus, Esc zurück ins Home.
+
+Der Spielstand bleibt lokal im Browser gespeichert. Zurücksetzen geht im Home unter „Optionen“.
+
+Godot 4 Web-Export (GL Compatibility).
